@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Up to Dev</string>
+    <string name="navigation_drawer_open">Navigatiebalk openen</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="navigation_drawer_close">Navigatiebalk sluiten</string>
+</resources>
